@@ -1,3 +1,4 @@
+#By Mudassir Alam
 # FoldMason
 FoldMason is a software tool for constructing accurate multiple alignments from large sets of protein structures.
 
